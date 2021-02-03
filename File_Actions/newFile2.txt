@@ -1,0 +1,4 @@
+Maths1, Science1, Physics1
+Maths2, Science2, Physics2
+Maths3, Science3, Physics3
+LCM
